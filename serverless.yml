@@ -1,4 +1,4 @@
-service: qldb-simple-demo
+service: my-first-app
 app: my-first-app
 
 provider:
