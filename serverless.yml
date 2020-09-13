@@ -1,5 +1,5 @@
-service: my-first-app
-app: my-first-app
+service: qldb-simple-demo
+app: qldb-simple-demo
 
 provider:
   name: aws
