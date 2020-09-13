@@ -6,7 +6,7 @@ provider:
   runtime: nodejs12.x
   memorySize: 512
   stage: ${opt:stage, 'dev'}
-  region: eu-west-1
+  region: us-east-2
   logRetentionInDays: 7 # Set the default RetentionInDays for a CloudWatch LogGroup
   tracing:
     apiGateway: true
