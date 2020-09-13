@@ -1,4 +1,5 @@
 service: qldb-simple-demo
+app: qldb-simple-demo
 
 provider:
   name: aws
